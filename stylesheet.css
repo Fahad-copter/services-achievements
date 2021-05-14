@@ -1,0 +1,194 @@
+.servichead
+{
+padding-left: 36%;
+color: #2d2d2d;
+font-size: 2.5rem;
+font-weight: 1000;
+font-family: "96 Sans",Arial,sans-serif;   
+}
+.servicsubhead
+{
+color: #707070;
+font-size: 1.6rem;
+display: block;
+line-height: 1.6em;
+font-weight: 500; 
+padding-left: 21%; 
+}
+.imagerow
+{
+display:flex;
+padding-top: 20px;   
+}
+.titlerow
+{
+display:flex;
+padding-top: 20px;
+color: #2d2d2d;
+font-size: 1.5rem;
+font-weight: 500;
+font-family: "96 Sans",Arial,sans-serif; 
+}
+.title1
+{
+padding-left: 155px;
+}
+.title2
+{
+padding-left: 220px;
+}
+.title3
+{
+padding-left: 230px;
+}
+.descpart
+{
+display:flex;
+padding-top: 20px;
+}
+.p1
+{
+color: #707070;
+font-size: 1.2rem;
+display: block;
+line-height: 1.6em;
+font-weight: 400;
+padding-left: 120px;
+}
+.p2
+{
+color: #707070;
+font-size: 1.2rem;
+display: block;
+line-height: 1.6em;
+font-weight: 400;
+padding-left:100px;
+}
+.p3
+{
+color: #707070;
+font-size: 1.2rem;
+display: block;
+line-height: 1.6em;
+font-weight: 400;
+padding-left:130px;
+}
+.h11
+{
+color: #2d2d2d;
+font-size: 2.5rem;
+font-weight: 1000;
+font-family: "96 Sans",Arial,sans-serif;
+}
+.h1-subhead
+{
+color: #707070;
+font-size: 1.6rem;
+display: block;
+line-height: 1.6em;
+font-weight: 500;   
+}
+.p-subhead
+{
+color: #707070;
+font-size: 1.2rem;
+display: block;
+line-height: 1.6em;
+font-weight: 400;
+}
+.h221
+{
+color: #707070;
+font-size: 2.6rem;
+display: block;
+line-height: 1.6em;
+font-weight: 500;
+}
+.content{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+margin-left: auto;
+margin-right: auto;
+padding-left: 64px;
+padding-right: 64px;
+width: 83.33333%;
+margin-top: 10px;
+padding-top: 10px;
+}
+.twok21{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+padding-left: 75px;
+padding-right: 75px;
+margin-top: 24px;
+padding-top: 24px;
+}
+.rowgrid
+{
+display:flex;
+padding-top: 20px;
+}
+.leftgrid
+{
+padding: 20px;
+width: 30%;
+padding-left: 75px;
+}
+.rightgrid
+{
+font-weight: 800;
+width: 50%;
+padding-left: 75px;
+}
+.imgpart
+{
+padding-left: 120px;
+height: 160px;
+width: 180px;
+}
+.h3-style{
+color: #2d2d2d;
+font-size: 1.7rem;
+font-family: "96 Sans",Arial,sans-serif;
+}
+.p-style
+{
+color: #707070;
+font-size: 1.2rem;
+display: block;
+line-height: 1.6em;
+font-weight: 400;
+}
+.h220
+{
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 64px;
+    padding-right: 64px;
+    width: 83.33333%;
+    margin-top: 10px;
+    padding-top: 10px;
+    color: #707070;
+    font-size: 2.6rem;
+    display: block;
+    line-height: 1.6em;
+    font-weight: 500;   
+}
+.twok20
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+padding-left: 75px;
+padding-right: 75px;
+margin-top: 24px;
+padding-top: 24px;
+}
+#touch
+{
+color: #00a6eb
+}
+/*hope you like it team leader*/
